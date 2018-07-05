@@ -1,3 +1,5 @@
+# Written in response to a challenge posed from a tutorial
+
 from random import randint
 
 def rock_paper_scissor():
