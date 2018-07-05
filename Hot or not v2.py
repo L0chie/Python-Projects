@@ -1,3 +1,5 @@
+# Yea i was just bored here LMAO -_-
+
 import time
 
 print("Lets play a game...")
