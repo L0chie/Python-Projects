@@ -1,3 +1,6 @@
+# Fascinating way to draw geometric shapes using the turtle module
+# Was created in response to a challenge set by a tutorial
+
 import turtle
 
 my_turtle = turtle.Turtle()
