@@ -1,4 +1,7 @@
 
+# My first Python project. 
+# Assembled rather quickly as a POC to show my parents and grandparents that i was actually interested in coding ¯\_(ツ)_/¯
+
 print(".")
 import time
 time.sleep(1.5)
