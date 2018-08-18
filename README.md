@@ -1,2 +1,3 @@
 # Python-Projects
-Just a bunch of Python projects i've randomly developed for whatever reason 
+
+Projects that I'll make, in an attempt to learn Python
